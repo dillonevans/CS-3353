@@ -1,0 +1,99 @@
+"Aaron, Hank"	Computation in Science	Dark Matter in the Universe	The M�ssbauer Effect	Extragalactic Astrophysics	"Measurement, Uncertainty and Lasers"
+"Abagnale, Frank"	Confocal Microscopy				
+"Abbey, Edward"	Physics of Cancer	Organ Printing			
+"Alba, Jessica"	Skin Photoaging	Analytical Lens Design	Advanced Solid State Theory	SMath for Physics � A primer	Optics � The science of light
+"Alberti, Leone Battista"					
+"Bierce, Ambrose"	Physics of Cancer	Confocal Microscopy	SMath for Physics � A primer	Spiral Structure in Galaxies	The Tai Chi in Star Formation
+"Biko, Steve"	Atomic Physics	Graphene Nanoribbons	The Physics of Noise	Atomic Physics	Optics � The science of light
+"Billings, Josh"					
+"Biondo, Frank"					
+"Birrell, Augustine"	Particle Tracking Velocimetry				
+Black Elk	SMath for Physics � A primer	Advanced Solid State Theory	Discrete Quantum Mechanics	B Factories	The Melencolia Manifesto
+"Blair, Robert"	Principles of Lightning Physics	Dark Matter in the Universe	Semiconductors � Bonds and bands		
+"Carrel, Alexis"	Introduction to Nanomaterials in Medicine	Semiconductors � Bonds and bands	Semiconductors � Bonds and bands	The Melencolia Manifesto	Gamma-Ray Bursts
+"Carrey, Jim"					
+"Carroll, Lewis"					
+"Carroll, Tom"	Physics of Cancer	The Physics of Noise	Path Integral Quantization	Lung Cancer and Imaging	Physics and Video Analysis
+"Carson, Rachel"	Topological Insulators	The Physics of Noise			
+"Carter, Elliott"	The Physics of Noise	Quantum Mechanics	Super Optical Biosensors	Analytical Lens Design	
+"Dunst, Kirsten"					
+"Durante, Jimmy"					
+"Durbin, Richard"	Discrete Quantum Mechanics	The Tai Chi in Star Formation	Discrete Quantum Mechanics	B Factories	
+"Durrell, Gerald"	Spiral Structure in Galaxies				
+"Dutton, Denis"	Physics and Video Analysis	Atomic Physics			
+"Ebert, Roger"	Extragalactic Astrophysics	SMath for Physics � A primer	Advanced Tokamak Stability Theory	Cold Atoms and Molecules	
+"Ecclestone, Bernie"	Advanced Tokamak Stability Theory	Women and Physics	Confocal Microscopy		
+"Echols, Damien"	The Physics of Noise	Physics of the Atmosphere	Cold Plasma Cancer Therapy	Graphene Nanoribbons	
+"Eckhart, Meister"					
+"Faulkner, William"					
+"Favre, Brett"					
+"Fawkes, Guy"	Cold Atoms and Molecules	Extragalactic Astrophysics	Particle Tracking Velocimetry	Advanced Tokamak Stability Theory	Quantum Mechanics
+"Federer, Roger"	Advanced Tokamak Stability Theory	Confocal Microscopy	Introduction to Nanomaterials in Medicine	Super Optical Biosensors	B Factories
+"Feibig, Jim"					
+"Feingold, Russ"	Physics and Video Analysis	Particle Tracking Velocimetry	Women and Physics	"Measurement, Uncertainty and Lasers"	Extragalactic Astrophysics
+"Feldman, Morton"	Principles of Lightning Physics	B Factories	Principles of Lightning Physics	The Physics of Emergence	Spiral Structure in Galaxies
+"Greeley, Horace"					
+"Green, Matthew"					
+"Greene, Graham"	Semiconductors � Bonds and bands	Spiral Structure in Galaxies	B Factories	Physics of Cancer	Topological Insulators
+"Greer, Germaine"	Dark Matter in the Universe	Skin Photoaging	Lung Cancer and Imaging		
+"Grellet, Stephen"	The Tai Chi in Star Formation	Analytical Lens Design	Physics of Cancer	Computation in Science	Lung Cancer and Imaging
+"Grey, Zane"					
+"Halme, Tony"					
+"Hamilton, Alexander"	The Physics of Emergence	Nuclear Materials Science	Biophysics of the Senses	The Melencolia Manifesto	SMath for Physics � A primer
+"Hamilton, Gail"	Quantum Mechanics	Introduction to Nanomaterials in Medicine			
+"Harper, Stephen"	Spiral Structure in Galaxies	Set Theory for Physicists	Biophysics of the Senses	Atomic Physics	The Physics of Emergence
+"Harris, Sam"	Semiconductors � Bonds and bands	Organ Printing			
+"Hart, Owen"	Cold Atoms and Molecules	Biophysics of the Senses	Semiconductors � Bonds and bands	Spiral Structure in Galaxies	B Factories
+"Jensen, Derrick"					
+"Jensen, Hayley"					
+Jerky Boys					
+Jesus Christ					
+"Jeter, Derek"	Organ Printing	Super Optical Biosensors	Cold Plasma Cancer Therapy	Spiral Structure in Galaxies	The M�ssbauer Effect
+"Johnson, Zach"	Discrete Quantum Mechanics				
+"Jolie, Angelina"	Extragalactic Astrophysics	Computation in Science	The M�ssbauer Effect	Skin Photoaging	Set Theory for Physicists
+"Karenga, Ron"	Women and Physics	The M�ssbauer Effect	Organ Printing	Set Theory for Physicists	
+"Kasparov, Garry"	Women and Physics	Principles of Lightning Physics			
+"Katz, Jonathan"	Introduction to Nanomaterials in Medicine	Particle Tracking Velocimetry			
+"Knuth, Donald"	Advanced Solid State Theory	Path Integral Quantization	Lung Cancer and Imaging	Physics of Cancer	
+"Koestler, Arthur"	Skin Photoaging	Extragalactic Astrophysics			
+"Lovelace, Richard"					
+"Lovins, Amory"					
+"Lowell, Christopher"	The M�ssbauer Effect	Nuclear Materials Science	The M�ssbauer Effect		
+"Lubbock, John"	Advanced Solid State Theory	Cold Plasma Cancer Therapy	SMath for Physics � A primer	Graphene Nanoribbons	The Tai Chi in Star Formation
+"Munch, Edvard"	Path Integral Quantization	The M�ssbauer Effect	Cold Atoms and Molecules	Discrete Quantum Mechanics	Analytical Lens Design
+"Munro, Alice"	The Physics of Noise				
+"Nabokov, Vladimir"	Introduction to Nanomaterials in Medicine	Quantum Mechanics	SMath for Physics � A primer	Skin Photoaging	Gamma-Ray Bursts
+"Nader, Ralph"					
+"Nagel, Thomas"	Women and Physics	Cold Plasma Cancer Therapy	Cold Atoms and Molecules	Cold Plasma Cancer Therapy	Principles of Lightning Physics
+"Pieper, Josef"	B Factories	Analytical Lens Design	Physics of the Atmosphere	Cold Plasma Cancer Therapy	B Factories
+"Pinker, Steven"	Gamma-Ray Bursts	Advanced Tokamak Stability Theory	Graphene Nanoribbons	Transformations of Materials	B Factories
+"Piper, Roddy"					
+"Puget, Jade"					
+"Punja, Hari"	Super Optical Biosensors	Analytical Lens Design	Lung Cancer and Imaging	Organ Printing	Lung Cancer and Imaging
+"Qarase, Laisenia"	Hypersonic Meteoroid Entry Physics	Introduction to Nanomaterials in Medicine	Physics of the Atmosphere	The Melencolia Manifesto	The Tai Chi in Star Formation
+Qin Shi Huang	Discrete Quantum Mechanics	Skin Photoaging	The Physics of Emergence	Path Integral Quantization	The Melencolia Manifesto
+"Quale, Anthony"	The M�ssbauer Effect				
+"Quarles, Francis"	Nuclear Materials Science	Particle Tracking Velocimetry	Atomic Physics	The Physics of Emergence	
+"Ruskin, John"					
+"Russell, Bertrand"	Confocal Microscopy	Cold Plasma Cancer Therapy	Particle Tracking Velocimetry		
+"Russell, Nipsey"	Physics of Cancer	Lung Cancer and Imaging	Nuclear Materials Science	Advanced Solid State Theory	
+"Russell, Rosaland"	The Melencolia Manifesto	Quantum Mechanics	Graphene Nanoribbons	Topological Insulators	
+"Stewart, Jon"	Nuclear Materials Science	SMath for Physics � A primer	Atomic Physics	Advanced Solid State Theory	Discrete Quantum Mechanics
+"Stein, Ben"	Nuclear Materials Science	Halo Nuclei			
+"Stoppard, Tom"	Gamma-Ray Bursts	Advanced Tokamak Stability Theory			
+"Torvalds, Linus"	Physics of Cancer	Super Optical Biosensors	Dark Matter in the Universe	Confocal Microscopy	Principles of Lightning Physics
+"Toynbee, Arnold"					
+"Tyger, Frank"					
+"Tynan, Kenneth"	The Tai Chi in Star Formation	Advanced Solid State Theory	Graphene Nanoribbons	Cold Atoms and Molecules	Gamma-Ray Bursts
+"Tzara, Tristan"					
+"Valenti, Jack"					
+"Val�ry, Paul"	Path Integral Quantization	Women and Physics	Introduction to Nanomaterials in Medicine	Spiral Structure in Galaxies	The M�ssbauer Effect
+"Vance, Jack"	Nuclear Materials Science	The Melencolia Manifesto	Cold Plasma Cancer Therapy	Cold Plasma Cancer Therapy	Cold Atoms and Molecules
+"Wolff, Christian"	Cold Atoms and Molecules	Physics and Video Analysis	The M�ssbauer Effect		
+"Wolfowitz, Paul"	Gamma-Ray Bursts				
+"Woodward, Bob"	SMath for Physics � A primer	The Physics of Noise	Extragalactic Astrophysics	Cold Atoms and Molecules	Confocal Microscopy
+"Woolf, Virginia"	Skin Photoaging	Principles of Lightning Physics			
+"Zawinski, Jamie"	Optical Cryptosystems				
+"Zinck, Kenneth"	Topological Insulators	Confocal Microscopy			
+"Zinn, Howard"	Computation in Science	Introduction to Nanomaterials in Medicine	Physics of the Atmosphere	Halo Nuclei	Confocal Microscopy
+"Zola, Emile"	Transformations of Materials	Cold Atoms and Molecules	Graphene Nanoribbons	The Tai Chi in Star Formation	B Factories

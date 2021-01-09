@@ -1,0 +1,46 @@
+Semiconductors � Bonds and bands	978-0-7503-1045-1	10.1088/978-0-750-31044-4	Materials	Sep-13	David K Ferry		"School of Electrical, Computer, and Energy Engineering, Arizona State University, USA"		3
+Advanced Tokamak Stability Theory	978-1-62705-422-5	10.1088/978-1-6270-5423-2	Plasmas	Apr-14	Linjin Zheng		"University of Texas at Austin, USA"		1
+SMath for Physics � A primer	978-1-62705-924-4	10.1088/978-1-6270-5925-1	Mathematics and computation	Apr-14	Bernard V Liengme		"St Francis Xavier University, Canada"		5
+Skin Photoaging	978-1-62705-454-6	10.1088/978-1-6270-5455-3	Biomedical engineering	Apr-14	Rui Yin	Qiquan Chen	"Southwest Hospital, Third Military Medical University, China"	"Southwest Hospital, Third Military Medical University, China"	4
+Advanced Solid State Theory	978-1-62705-327-3	10.1088/978-1-627-05328-0	Condensed matter	Jul-14	Thomas Pruschke		"University of G�ttingen, Germany"		4
+Physics of the Atmosphere	978-0-7503-1053-6	10.1088/978-0-7503-1052-9	Environment and energy	Nov-14	Rodrigo Caballero		"Stockholm University, Sweden"		5
+Physics of Cancer	978-0-7503-1135-9	10.1088/978-0-7503-1134-2	Biomedical engineering	Sep-15	Claudia Tanja Mierke		University of Leipzig		4
+Organ Printing	978-0-7503-2796-1	10.1088/978-1-6817-4079-9	Medical physics and biophysics	Oct-15	Jung-Seob Lee	Falguni Pati	"Pohang University of Science and Technology (POSTECH), Pohang, South Korea"	"Indian Institute of Technology Hyderabad, Telangana, India"	2
+Dark Matter in the Universe	978-1-68174-054-6	10.1088/978-1-6817-4118-5	Astronomy and astrophysics	Oct-15	Marc S Seigar		"University of Minnesota, Duluth, USA"		4
+Quantum Mechanics	978-0-7503-1207-3	10.1088/978-0-7503-1206-6	Quantum science	Nov-15	Mohammad Saleem		"Centre for High Energy Physics, Punjab University, Pakistan"		1
+Computation in Science	978-1-68174-029-4	10.1088/978-1-6817-4093-5	Mathematics and computation	Dec-15	Konrad Hinsen		"Centre de Biophysique Mol�culaire, CNRS Orl�ans, France"		3
+Discrete Quantum Mechanics	978-1-68174-061-4	10.1088/978-1-6817-4125-3	Quantum science	Dec-15	H Thomas Williams		"Washington and Lee University, USA"		1
+Physics and Video Analysis	978-1-68174-003-4	10.1088/978-1-6817-4067-6	Education and outreach	Apr-16	Rhett Allain		"Southeastern Louisiana University, USA"		4
+Women and Physics	978-1-68174-276-2	10.1088/978-1-6817-4277-9	"Culture, history and society"	Apr-16	Laura McCullough		"University of Wisconsin-Stout, USA"		1
+Nuclear Materials Science	978-0-7503-1105-2	10.1088/978-0-7503-1104-5	Materials	Jun-16	Karl Whittle		"University of Liverpool, UK"		1
+Extragalactic Astrophysics	978-1-68174-408-7	10.1088/978-1-6817-4409-4	Astronomy and astrophysics	Sep-16	James R Webb		"Florida International University, USA"		1
+Biophysics of the Senses	978-0-7503-2847-0	10.1088/978-1-6817-4111-6	Biomedical engineering	Dec-16	Tennille D Presley		"Winston-Salem State University, USA"		1
+Confocal Microscopy	978-1-68174-336-3	10.1088/978-1-6817-4337-0	Instrumentation and measurement	Dec-16	Professor Jian Liu	Professor Jiubin Tan	"Harbin Institute of Technology, China"	Harbin Institute of Technology	4
+The Melencolia Manifesto	978-1-68174-026-3	10.1088/978-1-6817-4090-4	"Culture, history and society"	Dec-16	David Ritz Finkelstein		"Previously at Georgia Institute of Technology, USA"		1
+Principles of Lightning Physics	978-0-7503-1153-3	10.1088/978-0-7503-1152-6	Plasmas	Dec-16	Vladislav Mazur		"National Severe Storms Laboratory, USA"		1
+Physics and the Environment	978-1-68174-492-6	10.1088/978-1-6817-4493-3	Environment and energy	Jun-17	Kyle Forinash III		"Indiana University Southeast, USA"		2
+Spiral Structure in Galaxies	978-1-68174-608-1	10.1088/978-1-6817-4609-8	Astronomy and astrophysics	Jun-17	Marc S Seigar		"University of Minnesota, Duluth, USA"		2
+Halo Nuclei	978-0-7503-2881-4	10.1088/978-1-6817-4581-7	Atomic and molecular physics	Oct-17	Jim Al-Khalili OBE		"Professor of Physics and Professor of the Public Engagement in Science, University of Surrey, UK"		1
+The Tai Chi in Star Formation	978-1-68174-293-9	10.1088/978-1-6817-4293-9	Astronomy and astrophysics	Oct-17	Hua-bai Li		Chinese University of Hong Kong		3
+Gamma-Ray Bursts	978-0-7503-1500-5	10.1088/2514-3433/aae164	AAS: High-energy Phenomena and Fundamental Physics	Dec-18	Andrew Levan		"University of Warwick, UK"		1
+Atomic Physics	978-0-7503-2969-9	10.1088/2053-2571/aaf801	Atomic and molecular physics	Feb-19	Paul Ewart		"Oxford University, UK"		5
+Hypersonic Meteoroid Entry Physics	978-0-7503-1666-8	10.1088/2053-2563/aae894	Plasmas	Mar-19	Gianpiero Colonna	Professor Mario Capitelli	"National Research Council (CNR), Italy"	CNR NANOTEC	5
+Introduction to Nanomaterials in Medicine	978-1-64327-413-3	10.1088/2053-2571/aafb0c	Medical physics and biophysics	Mar-19	Mohammad Rabiee	Navid Rabiee	"University of Technology, Tehran, Iran"	"Shahid Beheshti University, Iran"	1
+Cold Plasma Cancer Therapy	978-0-7503-2977-4	10.1088/2053-2571/aafb9c	Plasmas	Mar-19	Michael Keidar	Dayun Yan	"George Washington University, USA"	"George Washington University, USA"	5
+B Factories	978-1-64327-249-8	10.1088/2053-2571/ab00f7	Particle and nuclear physics	Apr-19	Bostjan Golob		"University of Ljubljana, Slovenia"		2
+"Measurement, Uncertainty and Lasers"	978-0-7503-2326-0	10.1088/2053-2563/ab0373	Instrumentation and measurement	Apr-19	Masatoshi Kajita		"National Institute of Information and Communications Technology, Tokyo, Japan"		1
+The M�ssbauer Effect	978-0-7503-2981-1	10.1088/2053-2571/ab0add	Atomic and molecular physics	Apr-19	Richard A Dunlap		Dalhousie University		3
+Topological Insulators	978-1-68174-516-9	10.1088/978-1-68174-517-6	Materials	Apr-19	Panagiotis Kotetes		"Niels Bohr institute in the University of Copenhagen, Denmark"		1
+Set Theory for Physicists	978-1-64327-647-2	10.1088/2053-2571/ab126a	Mathematics and computation	May-19	Nicolas A Pereyra		"University of Texas Rio Grande Valley, USA"		4
+Super Optical Biosensors	978-0-7503-2382-6	10.1088/2053-2563/ab0823	Instrumentation and measurement	May-19	Caide Xiao		"Yunyang Medical College, China"		4
+The Physics of Emergence	978-0-7503-2989-7	10.1088/2053-2571/ab0b3a	Particle and nuclear physics	Jun-19	Robert C Bishop		"Wheaton College Illinois, USA"		3
+Transformations of Materials	978-1-64327-617-5	10.1088/2053-2571/ab191e	Materials	Sep-19	Dimitri D Vvedensky		"The Blackett Laboratory, Imperial College London, London"		5
+Optics � The science of light	978-0-7503-3009-1	10.1088/2053-2571/ab2231	Optics and photonics	Oct-19	Paul Ewart		"Oxford University, UK"		5
+The Physics of Noise	978-0-7503-3024-4	10.1088/2053-2571/ab3c46	Instrumentation and measurement	Oct-19	Edoardo Milotti		"University of Trieste, Italy"		1
+Graphene Nanoribbons	978-0-7503-1699-6	10.1088/978-0-7503-1701-6	Materials	Nov-19	Luis Brey	Pierre Seneor	Instituto de Ciencia de Materiales de Madrid-CSIC	Unit� Mixte de Physique CNRS/Thales	5
+Particle Tracking Velocimetry	978-0-7503-2201-0	10.1088/978-0-7503-2203-4	Instrumentation and measurement	Nov-19	Dana Dabiri	Charles Pecora	"University of Washington, Seattle, USA"	"University of Washington, Seattle, USA"	5
+Lung Cancer and Imaging	978-0-7503-2538-7	10.1088/978-0-7503-2540-0	Medical physics and biophysics	Dec-19	Ayman El-Baz	Jasjit S Suri	"University of Lousiville, USA"	"The American Institute for Medical and Biological Engineering, USA"	4
+Optical Cryptosystems	978-0-7503-2218-8	10.1088/978-0-7503-2220-1	Optics and photonics	Dec-19	Naveen K. Nishchal		"Indian Institute of Technology Patna, India"		2
+Analytical Lens Design	978-0-7503-3165-4	10.1088/978-0-7503-3167-8	Optics and photonics	Apr-20	Rafael G González-Acuña	Hector A Chaparro-Romo	"Tecnol�gico de Monterrey, Mexico"	Optical Designer	1
+Cold Atoms and Molecules	978-0-7503-3413-6	10.1088/978-0-7503-3415-0	Atomic and molecular physics	Jun-20	Masatoshi Kajita		"National Institute of Information and Communications Technology, Tokyo, Japan"		2
+Path Integral Quantization	978-0-7503-3545-4	10.1088/978-0-7503-3547-8	Quantum science	Aug-20	Mark S Swanson		"Emeritus Professor of Physics,  University of Connecticut, Connecticut, USA"		4

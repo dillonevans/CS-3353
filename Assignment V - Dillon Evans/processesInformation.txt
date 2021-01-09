@@ -1,0 +1,11 @@
+Process Name	Burst Time	Virtual Runtime
+Process J	5		13
+Process H	7		9
+Process I	6		15
+Process D	4		7
+Process E	5		10
+Process F	8		14
+Process G	6		18
+Process A	4		8
+Process B	7		17
+Process C	8		20
